@@ -69,21 +69,6 @@ United States.
 
 ---
 
-## 🎯 Currently Looking For
-
-I'm currently looking for opportunities as a:
-
-- Junior Software Developer
-- Junior Full-Stack Developer
-- Backend Developer
-- Flutter Developer
-- Data / AI Intern or Junior Developer
-- NGO / Development Technology roles
-
-I'm particularly interested in opportunities where I can continue learning
-while contributing to real-world projects.
-
----
 
 ## 📫 Connect With Me
 
